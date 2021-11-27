@@ -1,0 +1,17 @@
+{
+    "name": "technophilialab/testing",
+    "authors": [
+        {
+            "name": "Soung Oo Lwin",
+            "email": "soungoolwin.dev@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.54"
+    },
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    }
+}
